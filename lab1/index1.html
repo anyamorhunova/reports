@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <script src="1.js" type="text/javascript"></script>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="1.css" type="text/css">
+    <title>Звіти з лабораторних робіт</title>
+</head>
+<body>
+<div class="wrapper">
+    <div class="header">
+        <div class="title">
+            <h3> ЗВІТИ З ЛАБОРАТОРНИХ РОБІТ<br> З ДИСЦИПЛІНИ «РОЗРОБЛЕННЯ WEB-ЗАСТОСУВАННЬ»</h3>
+            <p>Виконали: Бригада 9, гр.ІА-91, Моргунова А., Ляскович А., Жоган В.</p>
+        </div>
+        <div class="labs">
+            <nav>
+                <ul class="top-menu">
+                    <li class="active lists"><a href="index1.html">Лабораторна №1</a></li>
+                    <li class="lists"><a href="../lab2/index2.html">Лабораторна №2</a></li>
+                    <li class="lists"><a href="../lab3/index3.html">Лабораторна №3</a></li>
+                    <li class="lists"><a href="../lab4/index4.html">Лабораторна №4</a></li>
+                    <li class="lists"><a href="../lab5/index5.html">Лабораторна №5</a></li>
+                    <li class="lists"><a href="../lab6/index6.html">Лабораторна №6</a></li>
+                    <li class="lists"><a href="../lab7/index7.html">Лабораторна №7</a></li>
+                    <li class="lists"><a href="../lab8/index8.html">Лабораторна №8</a></li>
+                    <li class="lists"><a href="../lab9/index9.html">Лабораторна №9</a></li>
+                </ul>
+            </nav>
+        </div>
+    </div>
+    <div class="menu">
+        <div class="menu-background">
+        <ul class="menu-list">
+            <li><button class="button" onmousedown="view1()">Опис предметного середовища</button></li>
+            <li><button class="button" onmousedown="view2()">Загальна постановка задачі програми</button></li>
+            <li><button class="button" onmousedown="view3()">Постановка задачі лабораторної роботи</button></li>
+        </ul>
+        <button class="structure" onmousedown="view()">Структура документа</button>
+        <div onmouseover="view()" class="html-code">
+            <button id="a1" onmousedown="op1()">HTML-код таблиці</button>
+            <button id="a2" onmousedown="op2()">HTML-код форми</button>
+            <button id="a3" onmousedown="op3()">HTML-код зображення</button>
+            <button id="a4" onmousedown="op4()">HTML-код посилання</button>
+        </div>
+        </div>
+    </div>
+    <div class="content">
+        <div id="div1">
+            <h4>Опис предметного середовища</h4>
+            <p>Сайт призначений для людей, які мають рахунки у банку, щоб вони могли через цей веб застосунок швидше робити банківські операції та мати змогу отримати певну інформацію про стан їхніх рахунків. <br>Для незареєстрованого користувача буде доступна лише головна сторінка з описом банку та формою для входу або реєстрацією, тому що інформацію про рахунок у банку має змогу продивитись зареєстрований користувач зі свого особистого кабінету. Зареєстрований користувач може проводити різні операції з рахунком ( переглянути залишок на рахунку, переказати кошти на інший рахунок тощо), змінити логін або пароль від особистого кабінету, переглянути інформацію про банк(місцезнаходження філіалів, контактна інформація тощо).
+            </p>
+            <p>Середовища, в яких ми працювали: Всеволод - Visual Studio Code, Аня - WebStorm, Ангеліна - блокнот</p>
+        </div>
+        <div id="div2">
+            <h4>Загальна постановка задачі програми</h4>
+            <p>Предметна область: веб-застосунок для маніпулювання банківським рахунком.<br>
+                Об’єкти взаємодії: користувач, зареєстрований користувач.<br>
+
+                Сайт має відповідати наступним функціональним вимогам:<br>
+                1.	реєстрація особистого кабінету<br>
+                2.	вхід в особистий кабінет<br>
+                3.	перегляд залишку на рахунку<br>
+                4.	переказ коштів з рахунку на рахунок<br>
+                5.	перегляд інформації про банк<br>
+
+                Сайт має відповідати наступним нефункціональним вимогам:<br>
+                1.	продукт повинен бути інтуїтивно зрозумілим користувачу<br>
+                2.	мати презентабельний вигляд<br>
+                3.	бути легким у використанні
+            </p>
+            <img class="uml" src="photo_2020-10-02_19-25-41.jpg">
+        </div>
+        <div id="div3">
+            <h4>Постановка задачі лабораторної роботи</h4>
+            <p>Придбати практичні навички роботи  з html-документом, таблицями,формами, зображеннями, посиланнями</p>
+        </div>
+        <div id="div11">
+            <h4>HTML-код таблиці</h4>
+            <img src="table.png">
+            <img src="tabble.png">
+        </div>
+        <div id="div12">
+            <h4>HTML-код форми</h4>
+            <img src="form.png">
+            <img src="formm.png">
+        </div>
+        <div id="div13">
+            <h4>HTML-код зображення</h4>
+            <img src="image.png">
+            <img src="img.png">
+        </div>
+        <div id="div14">
+            <h4>HTML-код посилання</h4>
+            <img src="hrefs.png">
+            <img src="href.png">
+        </div>
+    </div>
+
+</div>
+</body>
+</html>

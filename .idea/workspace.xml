@@ -19,57 +19,22 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0c489696-94b0-4631-8aaa-3e42a4b3864b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab4/Screenshot 2020-10-22 094138.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab4/Screenshot 2020-10-22 094201.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab4/a.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab4/aa.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab4/an5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab4/ang1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab4/ang2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab4/ang3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab4/ang4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab4/ang5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab4/angg1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab4/angg2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab4/angg3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab4/angg4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab4/c.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab4/cc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab4/v.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab4/vv.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab4/zh1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab4/zh2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab4/zh3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab4/zh4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab4/zh5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab4/zh6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab4/zzh1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab4/zzh2.png" afterDir="false" />
+    <list default="true" id="0c489696-94b0-4631-8aaa-3e42a4b3864b" name="Default Changelist" comment="second">
+      <change afterPath="$PROJECT_DIR$/lab4/an21.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/an22.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/an23.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/an24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/an25.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/ent1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/ent2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/o1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/o2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/o3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/oo1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/oo2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/oo3.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab1/index1.html" beforeDir="false" afterPath="$PROJECT_DIR$/lab1/index1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab2/index2.html" beforeDir="false" afterPath="$PROJECT_DIR$/lab2/index2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab3/3.css" beforeDir="false" afterPath="$PROJECT_DIR$/lab3/3.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab3/3.js" beforeDir="false" afterPath="$PROJECT_DIR$/lab3/3.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab3/index3.html" beforeDir="false" afterPath="$PROJECT_DIR$/lab3/index3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab4/an1.png" beforeDir="false" afterPath="$PROJECT_DIR$/lab4/an1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab4/an2.png" beforeDir="false" afterPath="$PROJECT_DIR$/lab4/an2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab4/an3.png" beforeDir="false" afterPath="$PROJECT_DIR$/lab4/an3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab4/an4.png" beforeDir="false" afterPath="$PROJECT_DIR$/lab4/an4.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab4/an61.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab4/ang61.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/lab4/index4.html" beforeDir="false" afterPath="$PROJECT_DIR$/lab4/index4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab4/l4ang1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab4/l4ang2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab4/l4ang3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab4/zhohan-1-css.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab4/zhohan-1-html.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab4/zhohan-1-js.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab4/zhohan-1.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab4/zhohan-2-css.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab4/zhohan-2-html.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab4/zhohan-2-js.PNG" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,8 +93,18 @@
       <workItem from="1601565577180" duration="39208000" />
       <workItem from="1602861959821" duration="4181000" />
       <workItem from="1602925226602" duration="4692000" />
-      <workItem from="1603348588845" duration="6519000" />
+      <workItem from="1603348588845" duration="8753000" />
+      <workItem from="1603812767961" duration="70000" />
+      <workItem from="1603956188527" duration="1726000" />
     </task>
+    <task id="LOCAL-00001" summary="second">
+      <created>1603366843253</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603366843253</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -146,6 +121,10 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="second" />
+    <option name="LAST_COMMIT_MESSAGE" value="second" />
   </component>
   <component name="WindowStateProjectService">
     <state x="223" y="72" width="1089" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600715047717">
@@ -228,6 +207,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1514" height="35" key="GridCell.Tab.3.right/0.0.1536.834@0.0.1536.834" timestamp="1602866153848" />
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1603366862321">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1603366862321" />
     <state x="586" y="330" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602864433227">
       <screen x="0" y="0" width="1536" height="834" />
     </state>

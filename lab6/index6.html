@@ -1,10 +1,111 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <script src="6.js" type="text/javascript"></script>
     <meta charset="UTF-8">
-    <title>Title</title>
+    <link rel="stylesheet" href="6.css" type="text/css">
+    <title>Звіти з лабораторних робіт</title>
 </head>
 <body>
+<div class="wrapper">
+    <div class="header">
+        <div class="title">
+            <h3> ЗВІТИ З ЛАБОРАТОРНИХ РОБІТ<br> З ДИСЦИПЛІНИ «РОЗРОБЛЕННЯ WEB-ЗАСТОСУВАННЬ»</h3>
+            <p>Виконали: Бригада 9, гр.ІА-91, Моргунова А., Ляскович А., Жоган В.</p>
+        </div>
+        <div class="labs">
+            <nav>
+                <ul class="top-menu">
+                    <li class="lists"><a href="../lab1/index1.html">Лабораторна №1</a></li>
+                    <li class="lists"><a href="../lab2/index2.html">Лабораторна №2</a></li>
+                    <li class="lists"><a href="../lab3/index3.html">Лабораторна №3</a></li>
+                    <li class="lists"><a href="../lab4/index4.html">Лабораторна №4</a></li>
+                    <li class=" lists"><a href="../lab5/index5.html">Лабораторна №5</a></li>
+                    <li class="active lists"><a href="index6.html">Лабораторна №6</a></li>
+                    <li class="lists"><a href="../lab7/index7.html">Лабораторна №7</a></li>
+                    <li class="lists"><a href="../lab8/index8.html">Лабораторна №8</a></li>
+                    <li class="lists"><a href="../lab9/index9.html">Лабораторна №9</a></li>
+                </ul>
+            </nav>
+        </div>
+    </div>
+    <div class="menu">
+        <div class="menu-background">
+            <ul class="menu-list">
+                <li><button class="button" onmousedown="view1()">Тема та постановка задачі ЛР №6</button></li>
+                <li><button class="button" onmousedown="view2()">2 завдання</button></li>
+                <li><button class="button" onmousedown="view3()">Встановлення Apache</button></li>
+                <li><button class="button" onmousedown="view4()">Додавання HTML-сторінок до веб-серверу</button></li>
+                <li><button class="button" onmousedown="view5()">Підключення php</button></li>
+                <li><button class="button" onmousedown="view6()">Висновки</button></li>
+            </ul>
+        </div>
+    </div>
+    <div class="content">
+        <div id="div1">
+            <h4>ЛАБОРАТОРНА РОБОТА №6</h4>
+            <h4>Тема WEB-СЕРВЕРИ ТА ПРИНЦИПИ ЇХ РОБОТИ З КОРИСТУВАЧЕМ.<br>
+                СЕРВЕРНІ WEB-ЗАСТОСУВАННЯ.
+            </h4>
+            <p>Мета: придбати практичні навички встановлення та конфігурування WEB-сервера, встановлення та налаштування Apache</p>
+            <p>Середовища, в яких ми працювали: Всеволод - Visual Studio Code, Аня - WebStorm, Ангеліна - Visual Studio Code</p>
+        </div>
+        <div id="div2">
+            <h4>Динамічні елементи, створені за допомогою бібліотеки JQuery</h4>
+            <p></p>
+            <img alt="" class="" src="2.png">
+        </div>
 
+        <div id="div3">
+            <h4>Встановлення веб-серверу Apache</h4>
+            <p>Завдання:</p>
+            <img src="zavd.png" alt="">
+            <p>Зайшли на сайт apache.org та скачали zip-архів</p>
+            <img src="a.png" alt="">
+            <p>Розпакували у папку</p>
+            <img src="32.png" alt="">
+            <p>У архіві був README-файл, ми слідували інструкціям</p>
+            <img src="31.png" alt="">
+            <p>Зміни у файлі httpd.conf(файл конфігурації apache)</p>
+            <img src="a1.png" alt="">
+            <img src="a2.png" alt="">
+            <img src="a3.png" alt="">
+            <img src="a4.png" alt="">
+
+        </div>
+        <div id="div4">
+            <h4>Завантажили HTML-документи та через веб-сервер маємо змогу передивлятися їх</h4>
+            <img src="41.png" alt="">
+            <img src="42.png" alt="">
+            <p>Директорія з HTML-файлами, до якої під'єднаний apache (згодом ми змінили HTML на PHP)</p>
+            <img src="43.png" alt="">
+
+
+        </div>
+        <div id="div5">
+            <p>Скачали zip-архів з офіційного сайту</p>
+            <img src="b1.png" alt="">
+            <h4>Директорія з PHP-файлами</h4>
+            <img src="5.png" alt="">
+            <p>Спочатку у файлі httpd.conf записали шлях до директорії php</p>
+            <img src="b2.png" alt="">
+            <p>Зміни у конфігурації файлу php.ini(Ми його перейменували з php.ini-development)</p>
+            <p>Додали шлях до папки з розширеннями та підключили найголовніші, на нашу думку розширення.</p>
+            <img src="b3.png" alt="">
+            <img src="b4.png" alt="">
+            <img src="b5.png" alt="">
+
+            <p>Код виконання скрипту:</p>
+            <img src="53.png" alt="">
+            <p>Встановленно кодування UTF-8 для сторінки</p>
+            <p>Результат виконання скрипту php:</p>
+            <img src="52.png" alt="">
+        </div>
+        <div id="div6">
+            <h4>Висновки</h4>
+            <p>У цій лабораторній роботі ми навчились встановлювати web-сервер Apache на свiй комп'ютер, також ми навчилися встановлювати php, розібрались у файлах конфігурації та зв'язали php та apache.</p>
+        </div>
+    </div>
+</div>
 </body>
 </html>

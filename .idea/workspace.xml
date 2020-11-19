@@ -19,23 +19,31 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0c489696-94b0-4631-8aaa-3e42a4b3864b" name="Default Changelist" comment="5th lab">
-      <change afterPath="$PROJECT_DIR$/lab5/d31.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab5/d32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab5/d33.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab5/d34.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab5/d35.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab5/f1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab5/f2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab5/i1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab5/i2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab5/s.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab5/sf.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab5/ug1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab5/ug2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab5/ug3.png" afterDir="false" />
+    <list default="true" id="0c489696-94b0-4631-8aaa-3e42a4b3864b" name="Default Changelist" comment="5th lab final">
+      <change afterPath="$PROJECT_DIR$/lab6/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab6/31.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab6/32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab6/41.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab6/42.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab6/43.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab6/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab6/52.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab6/53.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab6/6.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab6/6.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab6/a.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab6/a1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab6/a2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab6/a3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab6/a4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab6/b1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab6/b2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab6/b3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab6/b4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab6/b5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab6/zavd.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab5/index5.html" beforeDir="false" afterPath="$PROJECT_DIR$/lab5/index5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab6/index6.html" beforeDir="false" afterPath="$PROJECT_DIR$/lab6/index6.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,8 +54,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
-        <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -66,12 +74,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/WebstormProjects/OKR2-Flex" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Desktop\веб4\reports (2)\reports\lab6" />
       <recent name="C:\Users\user\Desktop\веб4\reports (2)\reports\lab5" />
       <recent name="C:\Users\user\Desktop\веб4\reports (2)\reports\lab4" />
       <recent name="C:\Users\user\WebstormProjects\Otchety\lab2" />
@@ -101,7 +110,10 @@
       <workItem from="1605121889554" duration="3300000" />
       <workItem from="1605162660167" duration="8000" />
       <workItem from="1605170862223" duration="1068000" />
-      <workItem from="1605250364831" duration="2216000" />
+      <workItem from="1605250364831" duration="2298000" />
+      <workItem from="1605263695219" duration="82000" />
+      <workItem from="1605263778114" duration="23000" />
+      <workItem from="1605781164561" duration="6985000" />
     </task>
     <task id="LOCAL-00001" summary="second">
       <created>1603366843253</created>
@@ -124,11 +136,28 @@
       <option name="project" value="LOCAL" />
       <updated>1605171380099</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="5th lab final">
+      <created>1605255601111</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1605255601111</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -146,7 +175,8 @@
     <MESSAGE value="second" />
     <MESSAGE value="final about 4th lab" />
     <MESSAGE value="5th lab" />
-    <option name="LAST_COMMIT_MESSAGE" value="5th lab" />
+    <MESSAGE value="5th lab final" />
+    <option name="LAST_COMMIT_MESSAGE" value="5th lab final" />
   </component>
   <component name="WindowStateProjectService">
     <state x="223" y="72" width="1089" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600715047717">
@@ -161,10 +191,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="499" y="164" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.834@0.0.1536.834" timestamp="1603357093736" />
-    <state x="549" y="172" key="FileChooserDialogImpl" timestamp="1603357760012">
+    <state x="549" y="172" key="FileChooserDialogImpl" timestamp="1605263799923">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="549" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1603357760012" />
+    <state x="549" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1605263799923" />
     <state width="1514" height="35" key="GridCell.Tab.0.bottom" timestamp="1602866153847">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -229,10 +259,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1514" height="35" key="GridCell.Tab.3.right/0.0.1536.834@0.0.1536.834" timestamp="1602866153848" />
-    <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1605171393184">
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1605255614761">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1605171393184" />
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1605255614761" />
     <state x="586" y="330" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602864433227">
       <screen x="0" y="0" width="1536" height="834" />
     </state>

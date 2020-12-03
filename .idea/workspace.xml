@@ -19,31 +19,63 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0c489696-94b0-4631-8aaa-3e42a4b3864b" name="Default Changelist" comment="5th lab final">
-      <change afterPath="$PROJECT_DIR$/lab6/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab6/31.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab6/32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab6/41.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab6/42.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab6/43.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab6/5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab6/52.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab6/53.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab6/6.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab6/6.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab6/a.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab6/a1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab6/a2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab6/a3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab6/a4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab6/b1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab6/b2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab6/b3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab6/b4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab6/b5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab6/zavd.png" afterDir="false" />
+    <list default="true" id="0c489696-94b0-4631-8aaa-3e42a4b3864b" name="Default Changelist" comment="6th lab">
+      <change afterPath="$PROJECT_DIR$/lab7/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab7/22.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab7/222.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab7/7.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab7/7.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab7/a1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab7/a2.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab7/ab.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab7/ab1.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab7/ab2.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab7/sa1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab7/sa2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab7/sa3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab7/sa4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab7/sa5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab7/sa6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab7/ssa1.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab7/ssa2.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab7/ssa3.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab7/ssa4.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab7/ssa5.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab7/ssv1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab7/ssv2.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab7/ssv3.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab7/ssv4.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab7/ssv5.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab7/ssv6.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab7/ssv7.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab7/ssv8.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab7/sv1.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab7/sv2.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab7/sv3.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab7/sv4.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab7/sv5.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab7/sv6.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab7/sv7.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab7/sz1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab7/sz10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab7/sz11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab7/sz2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab7/sz3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab7/sz4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab7/sz5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab7/sz6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab7/sz7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab7/sz8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab7/sz9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab7/v1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab7/v2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab7/vb.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab7/z1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab7/z2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab7/zb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab7/zb1.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab6/index6.html" beforeDir="false" afterPath="$PROJECT_DIR$/lab6/index6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab7/index7.html" beforeDir="false" afterPath="$PROJECT_DIR$/lab7/index7.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,8 +86,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
-        <option value="JavaScript File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -63,7 +95,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1hpibAKwhoIcPiovLSizlf2Fl2S" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -80,11 +114,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Desktop\веб4\reports (2)\reports\lab7" />
       <recent name="C:\Users\user\Desktop\веб4\reports (2)\reports\lab6" />
       <recent name="C:\Users\user\Desktop\веб4\reports (2)\reports\lab5" />
       <recent name="C:\Users\user\Desktop\веб4\reports (2)\reports\lab4" />
       <recent name="C:\Users\user\WebstormProjects\Otchety\lab2" />
-      <recent name="C:\Users\user\WebstormProjects\Otchety\lab1" />
     </key>
   </component>
   <component name="RunManager">
@@ -113,7 +147,12 @@
       <workItem from="1605250364831" duration="2298000" />
       <workItem from="1605263695219" duration="82000" />
       <workItem from="1605263778114" duration="23000" />
-      <workItem from="1605781164561" duration="6985000" />
+      <workItem from="1605781164561" duration="7137000" />
+      <workItem from="1606744920807" duration="2000" />
+      <workItem from="1606755329717" duration="21000" />
+      <workItem from="1606916117836" duration="2000" />
+      <workItem from="1606917471848" duration="6000" />
+      <workItem from="1606979843595" duration="8657000" />
     </task>
     <task id="LOCAL-00001" summary="second">
       <created>1603366843253</created>
@@ -143,7 +182,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605255601111</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="6th lab">
+      <created>1605792122582</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1605792122582</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -176,7 +222,8 @@
     <MESSAGE value="final about 4th lab" />
     <MESSAGE value="5th lab" />
     <MESSAGE value="5th lab final" />
-    <option name="LAST_COMMIT_MESSAGE" value="5th lab final" />
+    <MESSAGE value="6th lab" />
+    <option name="LAST_COMMIT_MESSAGE" value="6th lab" />
   </component>
   <component name="WindowStateProjectService">
     <state x="223" y="72" width="1089" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600715047717">
@@ -259,10 +306,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1514" height="35" key="GridCell.Tab.3.right/0.0.1536.834@0.0.1536.834" timestamp="1602866153848" />
-    <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1605255614761">
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1605792130069">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1605255614761" />
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1605792130069" />
     <state x="586" y="330" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602864433227">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
